@@ -2,3 +2,5 @@ first_commit_master
 second_commit_master
 third_commit_new_branch_down
 4_commit_new_branch_down
+5_commit_new_branch_down
+6_commit_new_branch_down
