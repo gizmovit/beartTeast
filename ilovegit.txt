@@ -1,1 +1,2 @@
 first_commit_master
+second_commit_master
